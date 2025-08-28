@@ -52,5 +52,5 @@ Each food eaten increases your score by 10 points
 O - Snake head
 o - Snake body
 F - Food
-# - Walls
+(#) - Walls
 
